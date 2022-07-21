@@ -1,2 +1,1 @@
-PRODUCT_NAME=AWESOME
-APP_NAME_1=app1
+The Awesome product
